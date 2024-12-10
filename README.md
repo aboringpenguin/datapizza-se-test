@@ -1,4 +1,4 @@
-# datapizza-se-test
+# se-test
 
 Questa libreria fornisce un'interfaccia di base per l'interazione con i Large Language Models (LLMs)
 
