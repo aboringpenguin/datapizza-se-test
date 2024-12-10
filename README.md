@@ -1,6 +1,6 @@
 # datapizza-se-test
 
-Questa libreria fornisce un'interfaccia di base per l'interazione con i Large Language Models (LLMs), con particolare attenzione alla gestione degli errori e alla validazione dell'input.
+Questa libreria fornisce un'interfaccia di base per l'interazione con i Large Language Models (LLMs)
 
 ## Caratteristiche principali
 
