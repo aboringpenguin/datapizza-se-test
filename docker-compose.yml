@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  llmclient:
+    build: .
+    image: llmclient:latest
+    command: python llmclient_test.py
